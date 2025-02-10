@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'home',
     'movies',
     'django.contrib.admin',
+    'accounts',
 ]
 
 MIDDLEWARE = [
